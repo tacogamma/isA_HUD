@@ -1,7 +1,7 @@
 # isA_HUD
 yes, it is a hud
 
-[Screenshots](https://imgur.com/a/GOJe2Es)
+[Screenshots](https://imgur.com/a/MpISq3D)
 
 <a>CREDITS</a>
 ====
