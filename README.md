@@ -1,10 +1,7 @@
 # isA_HUD
 yes, it is a hud
 
-Based on yA_HUD and improved for my personal use. There's a cool minmode with black boxes.
-Features many customizations such as *TWO* font options: Ubuntu and Surface.
-
-[Screenshots](https://imgur.com/a/MpISq3D)
+[Screenshots](https://imgur.com/a/GOJe2Es)
 
 <a>CREDITS</a>
 ====

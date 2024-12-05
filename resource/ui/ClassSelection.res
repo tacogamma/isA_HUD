@@ -1312,7 +1312,7 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		"xpos"			"c-300"
+		"xpos"			"c-320"
 		"ypos"			"r522"
 		"zpos"			"6"		
 		"wide"			"600"

@@ -36,7 +36,7 @@
 		"ypos"				"51"
 		"ypos_minmode"      "121"
 		"zpos"				"2"
-		"wide"				"118" 
+		"wide"	  	        "118"  
 		"tall"				"2"				
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -63,12 +63,14 @@
 		{
 			"ControlName"	"CTFImagePanel"
 			"fieldName"		"PipeIcon"
-			"xpos"			"27"
-			"ypos"			"19"
+			"xpos"			"c-210"
+			"xpos_minmode"  "237"
+			"ypos"			"113"
+			"ypos_minmode"  "99"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red"
@@ -79,9 +81,9 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"c-267"
+			"xpos"			"c-249"
 			"xpos_minmode"  "237"
-			"ypos"			"4" // 1
+			"ypos"			"100" 
 			"ypos_minmode"  "86"
 			"zpos"			"2"
 			"wide"			"38"
@@ -105,9 +107,9 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelShadow"
-			"xpos"			"c-266"
+			"xpos"			"c-248"
 			"xpos_minmode"  "238"
-			"ypos"			"5" // 2
+			"ypos"			"101" // 2
 			"ypos_minmode"  "87"
 			"zpos"			"1"
 			"wide"			"38"
@@ -134,10 +136,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoPipesPresentPanel"
 		"xpos"			"0"
-		"ypos"			"-13"	//0
+		"ypos"			"-13"	
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"0" // 480
+		"tall"			"0" 
 		"visible"		"1"
 		
 		"PipeIcon"
@@ -148,8 +150,8 @@
 			"ypos"			"19"
 			"wide"			"14"
 			"tall"			"14"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"image"			"../hud/ico_stickybomb_red_faded"
 			"scaleImage"	"1"
 			"teambg_2"		"../hud/ico_stickybomb_red_faded"

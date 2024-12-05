@@ -95,7 +95,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
 		"font"			"HudFontSmallestBold"
-		"labelText"		"-"
+		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"c-300"
 		"ypos"			"20"

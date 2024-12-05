@@ -9,10 +9,10 @@ Scheme
 		
 		//"Control Name"	"R   G   B   Transparency"	//Description
 		
-		"Damage"			"226 226 226 255"			//Damage display
+		"Damage"			"250 230 000 255"			//Damage display
 
-		"Ammo"				"226 226 226 255"		//Current Clip // "0 234 236 255"
-		"AmmoReserve"		"226 226 226 255"		//Total reserve // "0 117 114 255"
+		"Ammo"				"226 226 226 255"		//Current Clip 
+		"AmmoReserve"		"226 226 226 255"		//Total reserve 
  
 		"Health"			"226 226 226 255"		//Normal health color
 		"Buff"				"000 165 255 255" 		//Boosted health color
@@ -22,10 +22,10 @@ Scheme
 		"SpecLow"           "255 000 000 255"           //Low health for TargetID
 		
 		"LowHP"				"255 000 000 255"			//Low health and ammo warning color
-		"RedHP"				"255 075 075 255"			//"Low Ammo/HP" animation flash color
+		"RedHP"				"255 075 075 255"			//Low HP animation flash color
 		
 		"LowAmmo"			"255 000 000 255"			//Low health and ammo warning color
-		"RedAmmo"			"255 075 075 255"			//"Low Ammo/HP" animation flash color
+		"RedAmmo"			"255 075 075 255"			//Low Ammo animation flash color
 		
 		"LowT"				"000 255 000 214"			//Red animation for underline
 		"LowS"				"255 000 000 255"			//Flash color for underline
@@ -37,7 +37,7 @@ Scheme
 		"UberLabelFlash"	"015 095 014 175"			//Uber ready flash color %
 		"UberMeterFlash"	"015 095 014 100"			//Uber ready flash color meter	
 
-		"Select"			"000 160 150 255"		//This is the hover color for buttons, incidentally the hud's theme color
+		"Select"			"000 160 150 255"		//This is the hover color for buttons, the hud's theme color
 		
 		"Crosshair"         "226 226 226 255"
 		"Crosshair Hit"     "255 000 000 255"       // Set to the same as Crosshair if you don't want a hitmarker

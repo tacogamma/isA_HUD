@@ -20,7 +20,7 @@ Scheme
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
 		
-		"DeathNotice"
+"DeathNotice"
 		{
 			"1"
 			{
@@ -211,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"54"
 				"additive"		"0"
 				"antialias"	"1"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"48"
 				"additive"		"0"
 				"antialias"	"1"
@@ -377,7 +377,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"34"
 				"additive"		"0"
 				"antialias"	"1"
@@ -411,7 +411,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"30"
 				"additive"		"0"
 				"antialias"	"1"
@@ -422,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"28"
 				"additive"		"0"
 				"antialias"	"1"
@@ -998,6 +998,7 @@ Scheme
 			}
 		}
 
+
 		"Bold19"
 		{
 			"1"
@@ -1571,7 +1572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -2132,7 +2133,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -2189,7 +2190,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Surface-Broesel"
 				"tall"		"20"
 				"additive"		"0"
 				"antialias"	"1"
@@ -5796,16 +5797,6 @@ Scheme
 		{
 			"font" "resource/fonts/Surface-Broesel.otf"
 			"name" "Surface-Broesel"
-		}
-		"12" 
-		{
-			"font" "resource/fonts/Surface-HP-and-Ammo.ttf"
-			"name" "Surface-Medium"
-		}
-		"13"
-		{
-		    "font" "resource/fonts/Surface-Medium.otf"
-			"name" "Surface-Medium"
 		}
 	}
 }

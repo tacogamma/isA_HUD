@@ -139,8 +139,7 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c35" 
-		"xpos_minmode" "c48"
+		"xpos"	"c48" 
 		"ypos"	"r128" 
 		"ypos_minmode" "r55"
 		"wide"	"f0"
@@ -202,14 +201,12 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c98" // c-59
-		"xpos_minmode"  "c107"
-		"ypos"			"r77"	//r133
+		"xpos"			"c107" 
+		"ypos"			"r77"
 		"ypos_minmode"  "r62"
 		"zpos"			"2"
-		"wide"			"100" // 118
-		"wide_minmode"  "110"
-		"tall"			"5" // 10
+		"wide"			"110"
+		"tall"			"5"
 		"MeterFG"		"White"
 		"MeterBG"		"White"
 	}	
@@ -415,6 +412,18 @@
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
+	}
+	
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"3" // r145
+		"ypos"				"r105"
+		"wide"				"f0"
+		"tall"				"f0"
+		"visible" 			"1"
+		"enabled" 			"1"
 	}
 	
 	HudProgressBar
@@ -983,8 +992,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c107" // c-92
-		"zpos"			"20"
+		"ypos"			"c-92" 
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
@@ -996,7 +1004,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c107" // c-92
+		"ypos"			"c-92"
 		"zpos"			"20"
 		"wide"			"470"
 		"tall"			"200"
@@ -1009,7 +1017,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-125"
-		"ypos"			"c91" // c-55
+		"ypos"			"c-92"
 		"zpos"			"20"
 		"wide"			"250"
 		"tall"			"195"
@@ -1022,7 +1030,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-233"
-		"ypos"			"c100" // c-102
+		"ypos"			"c-102"
 		"zpos"			"20"
 		"wide"			"470"
 		"tall"			"200"	
@@ -1389,7 +1397,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-235"
-		"ypos"			"c104" // c-50
+		"ypos"			"c-50"
 		"zpos"			"22"
 		"wide"			"470"
 		"tall"			"200"

@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGHealth"
 		"xpos"			"64"
-		"ypos"			"128"	//1
+		"ypos"			"128"	
 		"zpos"			"-8"
 		"wide"			"109"
 		"tall_minmode"			"195"
@@ -20,20 +20,24 @@
 	{
 		"ControlName"				"CTFImagePanel"
 		"fieldName"					"TeamIndicator"
-		"xpos"			            "c-363"
+		"xpos"                      "c-363" // c-342
 		"ypos"						"181"
 		"zpos"						"3"
-		"wide"						"109"
+		"wide"                      "109" // 69
 		"tall"						"2"
 		"autoResize"				"0"
 		"pinCorner"					"0"
-		"visible"					"0"
+		"visible"					"1"
 		"visible_minmode"           "1"
 		"enabled"					"1"
-		"image"						"replay/thumbnails/panels/Panel_Blank"
+		"image"						"../hud/color_panel_brown"
 		"scaleImage"				"1"
-		"teambg_1"					"replay/thumbnails/panels/Panel_Blank"
-		"teambg_2"					"replay/thumbnails/panels/Panel_Red"
-		"teambg_3"					"replay/thumbnails/panels/Panel_Blue"
+		"teambg_1"					"../hud/color_panel_brown"
+		"teambg_2"					"../hud/color_panel_red"
+		"teambg_3"					"../hud/color_panel_blu"
+		"draw_corner_width"	"0"
+		"draw_corner_height"	"0"
+		"src_corner_height"	"40"
+		"src_corner_width"	"40"
 	}
 }

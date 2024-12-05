@@ -26,7 +26,7 @@
 		"font"			"CircleBGWin"
 		"labelText"		"o"
 		"textAlignment"		"center"
-		"xpos"			"c-89"
+		"xpos"			"c-89" 
 		"ypos"			"r39"			//r39
 		"zpos"			"2"
 		"wide"			"40"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-98"
+		"xpos"			"c-99"
 		"ypos"			"r29"
 		"zpos"			"9"
 		"wide"			"59"
@@ -66,6 +66,38 @@
 		"labelText"		"%bluescore%"
 		"font"			"Medium16"
 		"fgcolor"		"White"
+		
+		"if_hybrid"
+		{
+			"visible"	"0"
+		}
+
+		"if_mvm"
+		{
+			"visible"	"0"
+		}
+
+		"if_specialdelivery"
+		{
+			"visible"	"0"
+		}
+	}
+	
+		"BlueScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueScore"
+		"xpos"			"c-98"
+		"ypos"			"r28"
+		"zpos"			"9"
+		"wide"			"59"
+		"tall"			"23"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%bluescore%"
+		"font"			"Medium16"
+		"fgcolor"		"Black"
 		
 		"if_hybrid"
 		{
@@ -130,6 +162,38 @@
 		"labelText"		"%redscore%"
 		"font"			"Medium16"
 		"fgcolor"		"White"		
+		
+		"if_hybrid"
+		{
+			"visible"	"0"
+		}
+
+		"if_mvm"
+		{
+			"visible"	"0"
+		}
+
+		"if_specialdelivery"
+		{
+			"visible"	"0"
+		}
+	}
+	
+	"RedScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScore"
+		"xpos"			"c41"
+		"ypos"			"r28"
+		"zpos"			"9"
+		"wide"			"59"
+		"tall"			"23"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%redscore%"
+		"font"			"Medium16"
+		"fgcolor"		"Black"		
 		
 		"if_hybrid"
 		{

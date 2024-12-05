@@ -33,14 +33,14 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"9999" // 0
-		"ypos"					"9999" // 15
+		"xpos"					"0" // 0
+		"ypos"					"15" // 15
 		"zpos"					"2"
 		"wide"					"26"
 		"tall"					"20"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"Streak"
