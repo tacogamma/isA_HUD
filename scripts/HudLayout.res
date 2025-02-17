@@ -62,7 +62,7 @@
 		
 		"TeamBlue"		"90 122 143 255" // "HUDBlueTeamSolid"
 		"TeamRed"		"189 59 61 255" // "HUDRedTeamSolid"
-		"IconColor"		"White"
+		"IconColor"		"240 240 240 255"
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"0 0 0 100"	 // 214	

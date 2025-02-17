@@ -1,5 +1,4 @@
 #base "../../customizations/HPBox.res"
-#base "../../customizations/HealthBonusCross.res"
 
 "Resource/UI/HudPlayerHealth.res"
 {	
@@ -12,7 +11,7 @@
 		"ypos"	 "128"	
 		"ypos_minmode" "126"
 		"zpos"	 "5"	
-		"wide"	 "159"	
+		"wide"	 "159"
 		"tall"	 "56"	
 		"visible"	 "1"	
 		"enabled"	 "1"	
@@ -69,12 +68,12 @@
 		"ypos"			"r256" 
 		"ypos_minmode"  "r183"
 		"zpos"			"2"
-		"wide"			"310"
+		"wide"			"f0" // 310
 		"tall"			"222"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
-		"HealthDeathWarning"	"0.8"
+		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"RedCross"
 	}
 	
@@ -194,13 +193,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-	    "xpos"          "11"
+	    "xpos"          "95" // 11
 		"xpos_minmode"  "9999"
-		"ypos"			"135"		
+		"ypos"			"135"	// 135	
 		"ypos_minmode"  "132"
 		"zpos"			"-4"
-		"wide"			"48"	
-		"tall"			"48"
+		"wide"			"48" // 48	
+		"tall"			"48" // 48
 		"visible"       "1"		
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg" // "../../materials/vgui/replay/thumbnails/buff"
