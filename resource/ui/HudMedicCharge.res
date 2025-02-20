@@ -1,4 +1,5 @@
-#base "../../customizations/UberBox.res"
+#base "../../customizations/isa_altmode_boxes/uber_box.res"
+#base "../../customizations/isa_team_indicators/uber_bar.res"
 
 "Resource/UI/HudMedicCharge.res"
 {	

@@ -1,4 +1,5 @@
-#base "../../customizations/AmmoBox.res"
+#base "../../customizations/isa_altmode_boxes/ammo_box.res"
+#base "../../customizations/isa_team_indicators/ammo_bar.res"
 
 "Resource/UI/HudAmmoWeapons.res"
 {

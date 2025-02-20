@@ -3,7 +3,7 @@
 	"YAHUD"
 	{
 		"label" 		"isA_HUD"
-		"command" 		"engine con_enable 1; engine showconsole; clear; echo Modification of whayay's yA_HUD. Shoutouts to the Huds.tf Discord server for all the help."
+		"command" 		"engine con_enable 1; toggleconsole; clear; echo Based on whayay's yA_HUD. Shoutouts to the Huds.tf Discord server for all the help."
 	}
 	"ServerBrowserButton"
 	{

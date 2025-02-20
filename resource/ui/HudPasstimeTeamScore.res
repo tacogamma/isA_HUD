@@ -13,28 +13,11 @@
 		"enabled"		"1"
 	}
 	
-	"BlueScoreBG"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"BlueScoreBG"
-		"font"			"CircleBGWin"
-		"labelText"		"o"
-		"textAlignment"	"center"
-		"xpos"			"c-120"
-		"ypos"			"r65"
-		"zpos"			"2"
-		"wide"			"40"
-		"tall"			"41"
-		"fgcolor"		"BlueTeam"
-		"visible"		"1"
-		"enabled"		"1"
-	}
-	
 	"BlueScore"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-130"
+		"xpos"			"c-123"
 		"ypos"			"r55"
 		"zpos"			"9"
 		"wide"			"59"
@@ -46,29 +29,28 @@
 		"font"			"Medium16"
 		"fgcolor"		"White"
 	}
-
-	"RedScoreBG"
+	"BlueScoreShadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"RedScoreBG"
-		"font"			"CircleBGWin"
-		"labelText"		"o"
-		"textAlignment"	"center"
-		"xpos"			"c80"
-		"ypos"			"r65"
-		"zpos"			"2"
-		"wide"			"41"
-		"tall"			"41"
-		"fgcolor"		"RedTeam"
+		"fieldName"		"BlueScore"
+		"xpos"			"c-122"
+		"ypos"			"r54"
+		"zpos"			"9"
+		"wide"			"59"
+		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%bluescore%"
+		"font"			"Medium16"
+		"fgcolor"		"BlueTeamS"
 	}	
 
 	"RedScore"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c71"
+		"xpos"			"c64"
 		"ypos"			"r55"
 		"zpos"			"9"
 		"wide"			"59"
@@ -79,6 +61,22 @@
 		"labelText"		"%redscore%"
 		"font"			"Medium16"
 		"fgcolor"		"White"
+	}
+	"RedScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScore"
+		"xpos"			"c65"
+		"ypos"			"r54"
+		"zpos"			"9"
+		"wide"			"59"
+		"tall"			"23"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%redscore%"
+		"font"			"Medium16"
+		"fgcolor"		"RedTeamS"
 	}
 
 	"PlayingToCluster"

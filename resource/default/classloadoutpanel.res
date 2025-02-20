@@ -131,7 +131,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TauntCaratLabel"
 		"font"			"HudFontSmallestBold"
-		"labelText"		"-"
+		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"c-150"
 		"ypos"			"20"
