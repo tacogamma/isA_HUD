@@ -7,7 +7,7 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-	    "isA_HUD"               "0 117 114 255"
+	    "isA_HUD"               "244 116 59 255"
 	    "HudBlack"				"0 0 0 200"
 		
 		"isaBlue"				"72 112 125 255"
@@ -20,12 +20,12 @@ Scheme
 		"isaYellow"			"169 123 53 255"
 		"isaBrightYellow"		"218 165 32 255"
 		
-		"isaWhite"				"242 242 242 255"
+		"isaWhite"				"226 226 226 255"
 		"isaDullWhite"			"132 132 132 255"
 		
-		"isaGrey"				"51 47 46 255"
-		"isaDarkGrey"			"27 27 27 255"
-		"isaDarkerGrey"		"22 22 22 255"
+		"isaGrey"				"74 74 74 255"
+		"isaDarkGrey"			"57 57 57 255"
+		"isaDarkerGrey"		"27 27 27 255"
 		
 		"isaBlack"				"17 17 17 255"
 		

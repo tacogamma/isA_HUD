@@ -2662,9 +2662,10 @@ Scheme
 			"1"
 			{
 				"name"		"ubuntu_bold"
-				"tall"		"15"
+				"tall"		"21"
 				"additive"	"0"
 				"antialias" "1"
+				"dropshadow" "1"
 			}
 		}
 		

@@ -285,6 +285,10 @@ event HasMOTDBlinkStop
 {
 }
 
+event HasMOTDBlinkLoop
+{
+}
+
 event HasNotificationsBlink
 {
 }

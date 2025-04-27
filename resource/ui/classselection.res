@@ -866,11 +866,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"250"
-		"ypos"			"130"  // r500
+		"xpos"			"0"
+		"ypos"			"0"  // r500
 		"zpos"			"0"
-		"wide"			"350" // f0
-		"tall"			"225" // 1000
+		"wide"			"f0" // f0
+		"tall"			"480" // 1000
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"

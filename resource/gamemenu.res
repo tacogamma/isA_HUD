@@ -1,13 +1,8 @@
 "GameMenu" [$WIN32]
 {
-	"YAHUD"
-	{
-		"label" 		"isA_HUD"
-		"command" 		"engine con_enable 1; toggleconsole; clear; echo Based on whayay's yA_HUD. Shoutouts to the Huds.tf Discord server for all the help."
-	}
 	"ServerBrowserButton"
 	{
-		"label" 		"Browse Servers" 
+		"label" 		"Servers" 
 		"command" 		"OpenServerBrowser"
 		"subimage" 		""
 	}
@@ -35,28 +30,10 @@
 		"command" 		"engine open_charinfo"
 		"subimage" 		""
 	}
-	"ReplayBrowserButton"
-	{
-		"label" 		"Replays"
-		"command" 		"engine replay_reloadbrowser"
-		"subimage" 		""
-	}
 	"GeneralStoreButton"
 	{
 		"label" 		"Store"
 		"command" 		"engine open_store"
-		"subimage"		""
-	}
-	"SteamWorkshopButton"
-	{
-		"label" 		"Workshop"
-		"command" 		"engine OpenSteamWorkshopDialog"
-		"subimage" 		""
-	}
-	"DEMOUI"
-	{
-		"label" 		"Reload Hud"
-		"command" 		"engine hud_reloadscheme"
 		"subimage"		""
 	}
 	"ToggleScoreboard"

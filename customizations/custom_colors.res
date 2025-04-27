@@ -36,8 +36,6 @@ Scheme
 		"UberMeter"			"021 207 100 255" 		//Uber ready color for meter	
 		"UberLabelFlash"	"015 095 014 175"			//Uber ready flash color %
 		"UberMeterFlash"	"015 095 014 100"			//Uber ready flash color meter	
-
-		"Select"			"000 160 150 255"		//This is the hover color for buttons, the hud's theme color
 		
 		"Crosshair"         "226 226 226 255"
 		"Crosshair Hit"     "255 000 000 255"       // Set to the same as Crosshair if you don't want a hitmarker

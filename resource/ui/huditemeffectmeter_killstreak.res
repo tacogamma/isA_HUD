@@ -110,7 +110,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Bold26"
+		"font"					"Bold25"
 		"fgcolor"				"0 0 0 255"
 	}
 }

@@ -403,21 +403,6 @@
 			"origin_y" "0"
 			"origin_z" "-34"
 		}
-	}	
-	
-	"ShadedBar"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ShadedBar"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-		"PaintBackgroundType"	"0"
-		"fillcolor"		"0 0 0 147"
 	}		
 	
 	"VersusLabel"
