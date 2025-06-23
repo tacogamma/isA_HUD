@@ -1,6 +1,6 @@
 #base "../resource/crosshairs/crosshair_scheme.res"
 
-#base "fontsscheme.res"
+#base "scheme/fontsscheme.res"
 
 #base "../customizations/custom_colors.res"
 
