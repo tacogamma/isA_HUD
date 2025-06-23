@@ -1,7 +1,7 @@
 ![#isA_HUD](../screenshots/0-header.png)
 yes, it is a hud
 
-[Screenshots](https://imgur.com/a/GOJe2Es)
+[Screenshots](../screenshots/showcase.md)
 
 <a>CREDITS</a>
 ====
