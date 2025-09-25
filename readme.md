@@ -1,16 +1,12 @@
 ![#isA_HUD](../screenshots/0-header.png)
 yes, it is a hud
 
-<<<<<<< HEAD
 [Screenshots](https://github.com/tacogamma/isA_HUD/blob/screenshots/showcase.md)
 
 isA_HUD is a 2 in 1 solution offering both minimalism and minimalism but on the bottom of your screen and black boxes.
 It's kind of a mess, but it works and there's no major issue. This project is far from my main focus, so don't expect any updates soon. I'm happy with the way it is, but I'm still open to suggestions. Feel free to submit Issues via Github if you encounter any.
 
 This hud was made over many years in short spurts, it's inconsistent at some places. I've taken inspiration and elements from the many huds listed bellow. I apologize in advance if I forgot to credit you, feel free to reach out.
-=======
-[Screenshots](../screenshots/showcase.md)
->>>>>>> ca214e75dfb9fcd08efc30705c1c5d08b6a67858
 
 <a>CREDITS</a>
 ====
