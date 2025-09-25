@@ -1,14 +1,14 @@
 "chapters"
 {
-	1	"background_blu1"
-	2 	"background_blu2"
+	1	"background_red1"
+	2 	"background_red1"
 	3	"background_red1"
-	4	"background_red2"
+	4	"background_red1"
 }
 "BackgroundMaps"
 {
-	1	"background_blu1"
-	2 	"background_blu2"
+	1	"background_red1"
+	2 	"background_red1"
 	3	"background_red1"
-	4	"background_red2"
+	4	"background_red1"
 }

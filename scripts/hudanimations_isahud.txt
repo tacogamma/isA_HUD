@@ -11,7 +11,7 @@ event HudHealthBonusPulse
 
 	Animate	PlayerStatusHealthValueTour  		FgColor		"SpecBuff"				Accel 	0.0 0.0
 
-        //Animate	BGHealth					BgColor		"Buff"			Accel 0.0 0.0
+    //Animate	BGHealth					BgColor		"Buff"			Accel 0.0 0.0
 
 	RunEvent HudHealthBonusPulseLoop			0.4
 }

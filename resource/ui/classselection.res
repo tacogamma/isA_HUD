@@ -1309,45 +1309,40 @@
 	
 	"TFPlayerModel"
 	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"TFPlayerModel"
-		
-		"xpos"			"c-320"
-		"ypos"			"r522"
-		"zpos"			"6"		
-		"wide"			"600"
-		"tall"			"480"
-		
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"render_texture" "0"
-		
-		"fov"			"35"
-		"allow_rot"		"0"
+		"ControlName"								"CTFPlayerModelPanel"
+		"FieldName"									"TFPlayerModel"
+		"XPos"										"c-150"
+		"YPos"										"10"
+		"ZPos"										"6"
+		"Wide"										"480"
+		"Tall"										"480"
+		"Visible"									"1"
+		"Enabled"									"1"
 
-		"paintbackground" "1"		
-		"paintbackgroundenabled" "1"
-		"bgcolor_override" "255 255 255 0"
-		
-		"model"
+		"render_texture"							"0"
+		"fov"										"40"
+		"Allow_Rot"									"0"
+
+		"PaintBackground"							"0"
+		"paintbackgroundenabled"					"0"
+
+		"Model"
 		{
-			"force_pos"	"1"
+			"force_pos"								"1"
 
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "520"
-			"origin_y" "-50"
-			"origin_z" "-49"
-			"frame_origin_x"	"0"
-			"frame_origin_y"	"0"
-			"frame_origin_z"	"0"
-			"spotlight" "1"
-		
-			"modelname"		""
-			"vcd"		"class_select.vcd"
+			"angles_x"								"0"
+			"angles_y"								"170"
+			"angles_z"								"0"
+			"origin_x"								"320"
+			"origin_y"								"10"
+			"origin_z"								"-40"
+			"frame_origin_x"						"0"
+			"frame_origin_y"						"0"
+			"frame_origin_z"						"0"
+			"spotlight"								"1"
+
+			"modelname"								""
+			"vcd"									"class_select.vcd"
 		}
 	}
 	
